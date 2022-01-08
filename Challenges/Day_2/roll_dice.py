@@ -1,10 +1,12 @@
 import random 
-roll = True
-while roll:
+while True:
     a = random.randint(1,6)
-    print(a)
-    n = int(input("Enter 1 to roll again else 2 to exit : "))
-    if n==2:
-        roll = False
-
+    n = (input("Enter (y) to roll the dice else (n) to exit : "))
+    if n=='y' or n=='Y':
+        print("rolling the dice____wait__")
+        print(a)
+    elif n!='y':
+        print("exit")
+        break;
+       
     
