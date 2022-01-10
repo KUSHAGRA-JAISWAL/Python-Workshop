@@ -41,14 +41,11 @@ def mysqrt():
     res=math.sqrt(num1)
     print(f"squareroot of {num1} is {res}")
     
-#n=int(input("Enter a number: "))
-#def fact(n):
-    
-#   if n==1:
-#       return 1
-#   return n*fact(n-1)
-#print(fact(n))
-# Program includes all the functions which are defined for our simple calculator.
+def facto():
+    num1=int(input("Enter number : "))
+    f=math.factorial(num1)
+    print(f"squareroot of {num1} is {f}")
+
 def pow():
     num1=float(input("Enter number 1: "))
     num2=float(input("Enter number 2: "))

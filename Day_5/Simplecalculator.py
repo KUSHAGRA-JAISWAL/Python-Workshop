@@ -15,6 +15,7 @@ print("9 for Cube")
 print("10 for log")
 print("11 for Exponent")
 print("12 for sumission")
+print("0 for exit")
 
 while True:
    
@@ -36,7 +37,7 @@ while True:
          cal.mysqrt()
 
      elif key==6:
-         cal.fact()
+         cal.facto()
 
      elif key==7:
          cal.pow()
