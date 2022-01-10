@@ -10,8 +10,8 @@ This repo has divided into two main categories that covers daily programs and ch
 
 | Programs                                           |Discription                             |
 |----------------------------------------------------|----------------------------------------|
-|1. **[operators.py:](Day_1\operators.py)**| Program show's printing all the operators in python.|
-|2. **[input.py:](Day_1\input.py)**| Program to show how to take input from the user.|
+|1. **[operators.py:](Day_1/operators.py)**| Program show's printing all the operators in python.|
+|2. **[input.py:](Day_1/input.py)**| Program to show how to take input from the user.|
 |3. **[if_else.py:](Day_1\if_else.py)**| Program to show concept of if and else & to check the number is even or odd.|
 |4. **[elif.py:](Day_1\elif.py)**| Program to show the concept of elseif and  to check the number is greater,smaller or equal.|
 |5. **[for_loop_table.py:](Day_1\for_loop_table.py)**| Program to show to concept of for loop and to print the tables of given numbers.|
