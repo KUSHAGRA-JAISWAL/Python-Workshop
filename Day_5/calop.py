@@ -78,8 +78,8 @@ def expe():
 def sm():
     num1=int(input("Enter number 1: "))
     num2=int(input("Enter number 2: "))
-    for row in range(num1,num2):
-        s=0
+    s=0
+    for row in range(num1,num2+1):
         s=s+row
     print(f"Summision of {num1} and {num2} is {s}")
  
