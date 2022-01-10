@@ -1,3 +1,4 @@
+# Program to show thee concept of printng current date and time from the local machine.
 import datetime as dt
 
 print(dt.datetime.now())

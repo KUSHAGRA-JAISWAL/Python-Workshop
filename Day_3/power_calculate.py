@@ -1,3 +1,4 @@
+#Program to calculate the power of the given number.
 def power(num,pow_):
                 #this is user defined function 
                 sum_=1

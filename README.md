@@ -20,7 +20,7 @@ This repo has divided into two main categories that covers daily programs and ch
 |8. **[whileloop.py:](Day_2\whileloop.py)**| Program to show the concept of while loop and show the concept of random function.|
 |9. **[diamond_pattern.py:](Day_2\diamond_pattern.py)**| Program to print the diamond patterns in different for loops.|
 |10. **[length.py:](Day_3\length.py)**| Program to check the length of the given number.|
-|11. **[function.py:](Day_3\function.py)**| Program to show the concept of function.
+|11. **[function.py:](Day_3\function.py)**| Program to show the concept of function.|
 |12. **[power_calculate.py:](Day_3\power_calculate.py)**| Program to calculate the power of the given number.|
 |13. **[armstrong_number.py:](Day_3\armstrong_number.py)**| Program to check wheather the given number is amstrong or not.|
 |14. **[armstrong_in_function.py:](Day_3\armstrong_in_function.py)**| Program to check wheather the given number is amstrong or not in a function.|

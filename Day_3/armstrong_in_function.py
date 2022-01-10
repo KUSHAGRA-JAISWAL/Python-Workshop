@@ -1,4 +1,4 @@
-
+# Program to check wheather the given number is amstrong or not in a function.
 
 user=int(input("enter a numbet to check weather a number is armstrong or not: " ) )
 def arm(user):

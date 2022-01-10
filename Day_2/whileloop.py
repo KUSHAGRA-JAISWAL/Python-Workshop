@@ -1,3 +1,4 @@
+#Program to show the concept of while loop and show the concept of random function.
 import random
 
 sum_ = 0

@@ -48,7 +48,7 @@ def mysqrt():
 #       return 1
 #   return n*fact(n-1)
 #print(fact(n))
-
+# Program includes all the functions which are defined for our simple calculator.
 def pow():
     num1=float(input("Enter number 1: "))
     num2=float(input("Enter number 2: "))

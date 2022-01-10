@@ -1,3 +1,4 @@
+#Program of a game where you have to guess the right number.
 import random 
 roll = True
 

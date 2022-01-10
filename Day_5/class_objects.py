@@ -1,3 +1,4 @@
+ #Program to show the concept of class and objects.
 class Fan:
     #blades=0
 

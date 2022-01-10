@@ -1,3 +1,4 @@
+#Program to show the other concepts of list.
 list_=[1,2,5,5,8,0]
 
 var=list_.copy()

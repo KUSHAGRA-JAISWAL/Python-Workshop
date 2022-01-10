@@ -1,3 +1,4 @@
+#Program to show the concept of random function and game to roll the dice randomely.
 import random 
 while True:
     a = random.randint(1,6)

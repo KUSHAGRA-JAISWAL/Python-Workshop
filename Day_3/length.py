@@ -1,3 +1,4 @@
+#Program to check the length of the given number.
 number=int(input("Enter the number: "))
 count=0
 while number>0:

@@ -1,3 +1,4 @@
+#Program to show how to create a square pattern using loops.
 print("********")
 print("********")
 print("********")

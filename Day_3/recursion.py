@@ -1,3 +1,4 @@
+#Program to show the concept of recursion and to calculate the factorial of the given number.
 n=int(input("Enter a number: "))
 def calc(n):
                 if n==1:

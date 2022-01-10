@@ -1,3 +1,4 @@
+#Program to show the concept of function.
 def outPrint(msz,name):
                 print(msz,name)
 

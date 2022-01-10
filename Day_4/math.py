@@ -1,3 +1,4 @@
+#Program to show the concept of math function.
 import decimal as D
 import fractions as fr
 import math as m
