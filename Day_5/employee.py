@@ -1,5 +1,5 @@
 class Employee:
-    #n=k
+   
 
     def __init__(__self__,name,designation,sallery):
         print("Creating Constructor")
@@ -32,7 +32,7 @@ while True:
 
     elif choice=='p':
         for data in emp_data:
-            print(f"Employee name {data.getName()},designation {data.getDesignation}and sallery {data.sallery}")
+            print(f"Employee name {data.getName()},designation {data.getDesignation()}and sallery {data.getSallery()}")
 
 
     else:
