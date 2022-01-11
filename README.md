@@ -7,7 +7,7 @@ This repo has divided into two main categories that covers daily programs and ch
 </b>
 
 <br><b>
-# **[Join Discord](https://discord.gg/TDWk8xUEjQ)** <img src="https://i.imgur.com/WrsdvnV.png" style="height:35px; transform:translateY(6px) ">
+# **[Join Discord](https://discord.gg/TDWk8xUEjQ)** <img src="https://i.imgur.com/WrsdvnV.png" style="height:35px; width:35px; margin-top:10px">
 </b>
 
 # Workshop Programs 📚
