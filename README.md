@@ -5,9 +5,8 @@ This repository is the collection of Python Programs that has been done in Works
 
 This repo has divided into two main categories that covers daily programs and challenges.
 </b>
-
 <br><b>
-# **[Join Discord](https://discord.gg/TDWk8xUEjQ)** <img src="https://i.imgur.com/WrsdvnV.png" style="height:35px; width:35px; margin-top:10px">
+# **[Join Discord](https://discord.gg/TDWk8xUEjQ)** <img src="https://i.imgur.com/WrsdvnV.png" style="height:33px; width:33px; margin-top:10px">
 </b>
 
 # Workshop Programs 📚
