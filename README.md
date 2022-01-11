@@ -35,6 +35,8 @@ This repo has divided into two main categories that covers daily programs and ch
 |23. **[class_objects.py:](Day_5/class_objects.py)**| Program to show the concept of class and objects.|
 |24. **[date_time.py:](Day_5/date_time.py)**| Program to show thee concept of printng current date and time from the local machine.|
 |25. **[employee.py:](Day_5/employee.py)**| Program to input the data of employee ad the concept of constructors.|
+|26. **[dict.py:](Day_6/dict.py)**| Program to show the concept of dictionary.|
+|27. **[set.py:](Day_6/set.py)**| Program to check the length of the given string using set.|
 <br>
 
 # Challenges Programs ⭐

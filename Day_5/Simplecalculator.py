@@ -1,5 +1,7 @@
 #Program to show how to make a simple calculator.
 import calop as cal
+from art import logo
+print(logo)
 count=0
 print("\n************************Welocome to our Calculator***************************\n")
 print("--------------------To use this follow the instructions----------------------\n")
