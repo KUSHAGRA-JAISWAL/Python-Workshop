@@ -1,26 +1,24 @@
 #Program to show how to make a simple calculator.
 import calop as cal
 count=0
-print("****Welocome to our Calculator****")
-print("To use this follow the instructions")
-print("1 for Addition")
-print("2 for Substraction")
-print("3 for Multiplication")
-print("4 for Division")
-print("5 for Square root")
-print("6 for Factorial")
-print("7 for Power")
-print("8 for Square")
-print("9 for Cube")
-print("10 for log")
-print("11 for Exponent")
-print("12 for sumission")
-print("0 for exit")
+print("\n************************Welocome to our Calculator***************************\n")
+print("--------------------To use this follow the instructions----------------------\n")
+print("1 for Addition.\n")
+print("2 for Substraction\n")
+print("3 for Multiplication\n")
+print("4 for Division\n")
+print("5 for Square root\n")
+print("6 for Factorial\n")
+print("7 for Power\n")
+print("8 for Square\n")
+print("9 for Cube\n")
+print("10 for log\n")
+print("11 for Exponent\n")
+print("12 for sumission\n")
+print("0 for exit\n")
 
 while True:
-   
-     
-     key= int(input("Enter Any one Choice number: "))
+     key= int(input("\nEnter Any one Choice number: "))
      
      if key==1:
          cal.add()
@@ -59,12 +57,12 @@ while True:
 
      elif key==0:
          if count>0:
-            print("Thanks for using our calculator")
+            print("\nThanks for using our calculator")
          else:
-            print("You wasted our hard work")
+            print("\nYou wasted our hard work")
          break
      else:
-         print("Wrong Choice")
+         print("\nWrong Choice")
      count+=1
                    
         
