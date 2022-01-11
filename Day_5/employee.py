@@ -3,7 +3,7 @@ class Employee:
    
 
     def __init__(__self__,name,designation,sallery):
-        print("Creating Constructor")
+      #  print("Creating Constructor")
         __self__.name=name
         __self__.designation=designation
         __self__.sallery=sallery
@@ -21,9 +21,9 @@ class Employee:
 
 emp_data=[]
 while True:
-    choice=input("Enter Choice")
+    choice=input("\nEnter Choice (y) enter the data & (p) to print the data: ")
     if choice=='y':   
-        u_name=input("Enter your name : ")
+        u_name=input("\nEnter your name : ")
         u_deg=input("Enter your designation : ")
         u_sal=int(input("Enter your sallery : "))
 
@@ -33,8 +33,9 @@ while True:
 
     elif choice=='p':
         for data in emp_data:
-            print(f"Employee name {data.getName()},designation {data.getDesignation()}and sallery {data.getSallery()}")
+            print(f"\nEmployee name {data.getName()}\ndesignation {data.getDesignation()}\nsallery {data.getSallery()}\n")
 
 
     else:
+        print("Exit..")
         break
