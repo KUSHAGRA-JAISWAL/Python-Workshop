@@ -1,4 +1,4 @@
-# Python Programs <img src="https://i.imgur.com/POpZJqW.png" height=25px>
+# Python Programs <img src="https://i.imgur.com/YbEvz0e.png" height=30px width=30px>
 
 <br><b>
 This repository is the collection of Python Programs that has been done in Workshop at college as well as the collection of the program that were done while solving the daily Challenges given by the instructor in workshop. 
