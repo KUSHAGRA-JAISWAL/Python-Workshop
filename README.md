@@ -5,14 +5,14 @@ This repository is the collection of Python Programs that has been done in Works
 
 This repo has divided into two main categories that covers daily programs and challenges.
 </b>
-<br><b>
+<br>
 
 # Our Discord's! <img src="https://i.imgur.com/YrfDw86.gif" height=45px>
 
 **[<h2>Join us at (HackerSpace)](https://discord.gg/5PNFxQF2nz)** <img src="https://i.imgur.com/FDMjbFf.png" height=28px><h2>
 
 **[<h2>Join us at (Hacker)](https://discord.gg/5uZjRKHmJQ)** <img src="https://i.imgur.com/Fh1OlVZ.png" height=32px><h2>
-</b>
+
 
 # Workshop Programs 📚
 
