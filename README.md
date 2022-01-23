@@ -10,7 +10,7 @@ This repo has divided into two main categories that covers daily programs and ch
 
 **[<h2>Join us at (HackerSpace)](https://discord.gg/5PNFxQF2nz)** <img src="https://i.imgur.com/FDMjbFf.png" height=28px>
 
-**[<h2>Join us at (Hacker)](https://discord.gg/5uZjRKHmJQ)** <img src="https://i.imgur.com/Fh1OlVZ.png" height=32px>
+**[<h2>Join us at (h̲a̲c̲k̲e̲r̲s̲ ̲s̲e̲r̲v̲e̲r̲)](https://discord.gg/5uZjRKHmJQ)** <img src="https://i.imgur.com/Fh1OlVZ.png" height=32px>
 
 # Workshop Programs 📚
 
