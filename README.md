@@ -8,11 +8,11 @@ This repo has divided into two main categories that covers daily programs and ch
 
 # Our Discord's! <img src="https://i.imgur.com/YrfDw86.gif" height=45px>
 
-**[<h2>Join us at (HackerSpace)](https://discord.gg/5PNFxQF2nz)** <img src="https://i.imgur.com/FDMjbFf.png" height=28px>
+**[<h2>Join us at (HackerSpace)](https://discord.gg/5PNFxQF2nz)** <img src="https://i.imgur.com/9TC5djL.gif" height=31px>
 
-**[<h2>Join us at (h̲a̲c̲k̲e̲r̲s̲ ̲s̲e̲r̲v̲e̲r̲)](https://discord.gg/5uZjRKHmJQ)** <img src="https://i.imgur.com/Fh1OlVZ.png" height=32px>
+**[<h2>Join us at (h̲a̲c̲k̲e̲r̲s̲ ̲s̲e̲r̲v̲e̲r̲)](https://discord.gg/5uZjRKHmJQ)** <img src="https://i.imgur.com/ZvJVrUo.gif" height=32px>
 
-# Workshop Programs 📚
+# Workshop Programs <img src="https://i.imgur.com/4sdNnC4.gif" height=34px>
 
 | Programs                                           |Discription                             |
 |----------------------------------------------------|----------------------------------------|
